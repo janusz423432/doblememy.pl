@@ -1,0 +1,60 @@
+html, body {
+	background-color: yellow;
+	background-position: center;
+	color: #000;
+	margin: 0;
+	padding: 0; }
+
+#top {
+	margin:0 auto;
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 50px;
+	width: 1000px;
+	background-color: yellow; }
+
+#NAGLOWEK a {
+  font-family: 'helvetica neue', helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 3px solid rgba(0, 0, 0);
+  background: rgba(255, 0, 0);
+  color: rgba(255, 255, 255);
+  box-shadow: 2px 2px 3px rgba(0, 0, 0);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor:pointer;
+}
+{
+	width: 1000px; margin: 0; padding: 0; height: 100px; background-color: yellow; }
+
+#MENU {
+	width: 950px; height: 500px; text-align: center; background-color: yellow; padding: 25px; }
+
+#MENU a {
+	background-color: yellow; color: yellow; padding: 5px }
+
+#MENU a:hover {
+	background-color: yellow; color: yellow; padding: 5px; }
+
+#KOLUMNA_LEWA {
+	width: 460px;
+	float: left;
+	overflow: hidden;
+	background-color: yellow; 
+	margin: 0;
+	padding: 20px; }	
+
+#KOLUMNA_PRAWA {
+	width:460px;
+	float: right;
+	overflow: hidden;
+	background-color: yellow; 
+	margin: 0;
+	padding: 20px; }
+
+#STOPKA {
+	width: 970px; height: 50px; clear: both; background-color: yellow; color: yellow; font-size: 15px; padding: 15px}
+
+
